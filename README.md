@@ -1,5 +1,5 @@
 # String Ferret
-Tool to simplify string search accross a given path and contained documents.
+Simplifies string searching accross a given path and contained documents.
 
 <img src="https://github.com/Rainier-MSFT/String_Ferret/assets/6311098/132486ea-0802-4d2a-a10c-a7c7aa565aa0" width=50%>
 
